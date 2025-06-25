@@ -1,0 +1,1 @@
+{"Name":"Philip Mumo","Occupation":"Fintech","Age":31,"Networth":20,"Trader":1}
